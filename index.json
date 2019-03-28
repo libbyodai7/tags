@@ -1,14 +1,6 @@
-"tags":[{
-  "tag_id":{
-
-  },
-
-  "linked_media":{
-
-  },
-  "mediaType":{
-
-  },"Created_date":{
-
-  }
-}]
+{"responseJson":[{
+  "tag_id":{},
+  "linked_media":{},
+  "mediaType":{},
+  "Created_date":{}
+}]}
